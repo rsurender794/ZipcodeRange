@@ -14,13 +14,44 @@ public class ZipCodeRange {
 		this.high = high;
 	}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	public int getLow() {
 		return low;
 	}
 
 
 
-	
+
 
 	public void setLow(int low) {
 		this.low = low;
