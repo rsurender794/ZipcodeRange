@@ -18,6 +18,10 @@ public class ZipCodeRange {
 		return low;
 	}
 
+
+
+	
+
 	public void setLow(int low) {
 		this.low = low;
 	}
